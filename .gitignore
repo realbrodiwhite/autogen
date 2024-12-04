@@ -2,6 +2,9 @@
 node_modules/
 # Project
 /.vs
+# Visual Studio 2015/2017 cache/options directory
+.vs/
+
 .vscode
 
 # Log files
@@ -190,3 +193,6 @@ notebook/result.png
 samples/apps/autogen-studio/autogenstudio/models/test/
 
 notebook/coding
+
+# dotnet artifacts
+artifacts
